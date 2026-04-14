@@ -5,13 +5,12 @@ permalink: /
 ---
 
 
-こんばんわ
+こんにちわ
 
 
 
 ---
 
-以下テンプレート
 
 # I like
 ## dog and music
