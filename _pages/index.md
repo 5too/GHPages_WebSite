@@ -13,8 +13,8 @@ permalink: /
 
 以下テンプレート
 
-# I am
-## 見出し2
+# I like
+## dog and music
 ### 見出し3
 #### 見出し4
 ##### 見出し5
