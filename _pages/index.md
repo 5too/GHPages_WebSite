@@ -1,6 +1,6 @@
 ---
 title: "自己紹介"
-author: sora
+author: default
 permalink: /
 ---
 
